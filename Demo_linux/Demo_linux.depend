@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1284695637 source:/root/Desktop/IPVS/sdk/src/LUMP4Net_Linux/Demo_linux/main.cpp
+	<stdio.h>
+	"LinuxDef.h"
+	"launet.h"
+
+1285060094 /root/Desktop/IPVS/sdk/sdkh/launet.h
+	"VSNETStructDef.h"
+
+1285059965 /root/Desktop/IPVS/commh/NetCommdef/VSNETStructDef.h
+
+1284020708 /root/Desktop/IPVS/sdk/src/LUMP4Net_Linux/build_linux/LinuxDef.h
+	<sys/time.h>
+	<sys/times.h>
+	<sys/types.h>
+	<sys/ipc.h>
+	<sys/msg.h>
+	<sys/errno.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<time.h>
+	<unistd.h>
+	<pthread.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<netinet/tcp.h>
+	<arpa/inet.h>
+	<netdb.h>
+	"PtrArray.h"
+
+1282196683 /root/Desktop/IPVS/sdk/src/LUMP4Net_Linux/build_linux/PtrArray.h
+	<vector>
+
+1287727049 source:/root/Desktop/IPVS/sdk/src/LUMP4Net/Demo_linux/main.cpp
+	<stdio.h>
+	"LinuxDef.h"
+	"launet.h"
+
+1287717120 /root/Desktop/IPVS/sdk/src/LUMP4Net/build_linux/LinuxDef.h
+	<sys/time.h>
+	<sys/times.h>
+	<sys/types.h>
+	<sys/ipc.h>
+	<sys/msg.h>
+	<sys/errno.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<time.h>
+	<unistd.h>
+	<pthread.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<netinet/tcp.h>
+	<arpa/inet.h>
+	<netdb.h>
+	"PtrArray.h"
+
+1287482029 /root/Desktop/IPVS/sdk/src/LUMP4Net/build_linux/PtrArray.h
+	<vector>
+
